@@ -55,7 +55,8 @@ void QuickSort(int arr[], int left, int right) {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Active card
-![GitHub Streak](https://streak-stats.demolab.com?user=E5capada&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=andreydddd&theme=radical)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=andreydddd&layout=compact&theme=radical)
 <!--
 **andreydddd/andreydddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
