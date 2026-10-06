@@ -50,9 +50,9 @@ void QuickSort(int arr[], int left, int right) {
   QuickSort(arr, i, right);
 }
 ```
-![VS Code](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-![C++](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Active card
 ![GitHub Streak](https://streak-stats.demolab.com?user=andreydddd&theme=radical)
